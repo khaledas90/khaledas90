@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-```javascript
+<div align="center">
 const khaledAhmed = {
     role: "Front-End Developer & Software Engineer",
     location: "🌍 Available Worldwide",
@@ -30,6 +30,9 @@ const khaledAhmed = {
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
+</div>
+```javascript
+
 
 <br clear="right"/>
 
