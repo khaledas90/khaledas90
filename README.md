@@ -1,23 +1,17 @@
 <div align="center">
   <!-- Background Header with Overlay -->
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Khaled%20Ahmed&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20"/>
-  <!-- Animated Greeting with Wave -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=2E86AB&center=true&vCenter=true&width=600&height=80&lines=👋+Hi+there%2C+I'm+Khaled+Ahmed!;🚀+Welcome+to+my+GitHub!;💻+Let's+build+amazing+things!" alt="Animated Greeting" />
-  </h1>
-  <!-- Professional Roles Animation -->
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&multiline=true&width=700&height=120&lines=⚛️+React+%26+React+Native+Expert;🌟+Front-End+Developer;🔧+Software+Engineer;🚀+Full-Stack+%26+Mobile+Developer;💡+Problem+Solver+%26+Innovator" alt="Professional Roles" />
-  </div>
-  <!-- Coding Animation with Glow Effect -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250"/>
+  <!-- Subtitle Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=60&lines=⚛️+React+%7C+React+Native+%7C+Node.js+Expert;🌟+Passionate+about+creating+digital+experiences;💡+Turning+ideas+into+reality+through+code" alt="Subtitle Animation" />
+<br><br>
+  <!-- Modern Tech Stack Visual -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,html,css,mongodb,git&theme=dark&perline=8" alt="Tech Stack" />
+<br><br>
 </div>
 <!-- Decorative Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-
 ---
 
 ## 🚀 About Me
