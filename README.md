@@ -1,26 +1,29 @@
+
 <div align="center">
-  
   <!-- Background Header with Overlay -->
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Khaled%20Ahmed&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20"/>
-  
   <!-- Animated Greeting with Wave -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=2E86AB&center=true&vCenter=true&width=600&height=80&lines=👋+Hi+there%2C+I'm+Khaled+Ahmed!;🚀+Welcome+to+my+GitHub!;💻+Let's+build+amazing+things!" alt="Animated Greeting" />
   </h1>
+  <!-- Professional Roles Animation -->
+  <div>
   
- 
- 
+  </div>
+  <!-- Coding Animation with Glow Effect --> 
+</div>
+<!-- Decorative Line -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
+ 
 ---
 
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<div align="center">
+```javascript
 const khaledAhmed = {
     role: "Front-End Developer & Software Engineer",
     location: "🌍 Available Worldwide",
@@ -30,9 +33,6 @@ const khaledAhmed = {
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
 ```
-</div>
-```javascript
-
 
 <br clear="right"/>
 
