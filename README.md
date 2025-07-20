@@ -1,43 +1,13 @@
-<div align="center">
-<!-- Dynamic Animated Background Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=&fontSize=0&animation=twinkling"/>
-<div style="margin-top: -250px;">
-<!-- Animated Greeting with Wave -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Khaled+Ahmed+👋" alt="Greeting" />
-</h1>
-<!-- Animated Name with Stroke Effect -->
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=1500&pause=3000&color=00D4FF&center=true&vCenter=true&width=500&height=60&lines=KHALED+AHMED" alt="Name" />
-</h2>
-<!-- Professional Subtitle -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=3000&pause=1500&color=E6E6FA&center=true&vCenter=true&width=700&height=40&lines=💻+Front-End+Developer+%7C+React+Native+%26+Node.js+Enthusiast" alt="Subtitle" />
-</h3>
-</div>
-<!-- Spacing -->
-<br><br>
-<!-- Animated Tech Stack Badges -->
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,html,css,git,github&theme=dark&perline=8" alt="Tech Stack" width="400"/>
-</div>
-<!-- Additional Animated Badges -->
-<br>
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=pulse" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</div>
-</div>
-<!-- Elegant Separator -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# <div align="center">👋 Hi there, I'm **Khaled Ahmed** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></div>
 
-<!-- Quick Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledahmed&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Front-End+Developer;Software+Engineer;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
+
 ---
 
 ## 🚀 About Me
