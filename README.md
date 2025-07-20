@@ -122,16 +122,7 @@ const khaledAhmed = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🌟 **Project** | 💻 **Tech Stack** | 🔗 **Links** |
-|---|---|---|
-| **E-Commerce Mobile App** | React Native, Node.js, MongoDB | [Demo](https://example.com) • [Code](https://github.com/khaledahmed/ecommerce-app) |
-| **Task Management Dashboard** | React, Express, MySQL | [Live](https://example.com) • [Code](https://github.com/khaledahmed/task-manager) |
-| **Real-time Chat App** | React, Node.js, Socket.io | [Try it](https://example.com) • [Code](https://github.com/khaledahmed/chat-app) |
-
+ 
 </div>
 
 <div align="center">
