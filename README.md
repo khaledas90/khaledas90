@@ -9,10 +9,17 @@
 
 ---
 
-## 🚀 About Me
-
+🚀 About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+javascriptconst khaledAhmed = {
+    role: "Front-End Developer & Software Engineer",
+    location: "🌍 Available Worldwide",
+    specialties: ["React", "React Native", "Node.js"],
+    focus: "Building beautiful, responsive web & mobile apps",
+    currentlyLearning: "Advanced React Patterns & System Design",
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+<br clear="right"/>
 ```javascript
 const khaledAhmed = {
     role: "Front-End Developer & Software Engineer",
