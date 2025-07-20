@@ -1,16 +1,25 @@
 <div align="center">
-  <!-- Background Header with Overlay -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Khaled%20Ahmed&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=20"/>
-  <!-- Subtitle Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=60&lines=⚛️+React+%7C+React+Native+%7C+Node.js+Expert;🌟+Passionate+about+creating+digital+experiences;💡+Turning+ideas+into+reality+through+code" alt="Subtitle Animation" />
+  <!-- Epic Cyberpunk Header with Matrix Effect -->
+  <img width="100%" height="350" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=350&section=header&text=KHALED%20AHMED&fontSize=60&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=◦◦◦%20DIGITAL%20ARCHITECT%20◦%20CODE%20WIZARD%20◦%20FUTURE%20BUILDER%20◦◦◦&descAlignY=65&descSize=16&stroke=00ff41&strokeWidth=2"/>
+  <br>
+  <!-- Holographic Name Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2500&pause=800&color=00ff41&center=true&vCenter=true&width=900&height=100&lines=🌟+WELCOME+TO+THE+MATRIX;💫+I+AM+KHALED+AHMED;🚀+FULL+STACK+SORCERER;⚡+REACT+NATIVE+NINJA;🔥+NODE.JS+MASTER;💎+CODE+ARTIST" alt="Matrix Style Greeting" />
+  <br>
+  <!-- Animated Tech DNA Sequence -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=f5576c&center=true&vCenter=true&width=1000&height=70&lines=%3C%2F%3E+React.createElement()...+LOADING;%3C%2F%3E+npm+install+awesome-developer;%3C%2F%3E+git+commit+-m+%22Building+the+future%22;%3C%2F%3E+docker+run+-p+3000%3A3000+khaled-magic;%3C%2F%3E+console.log('Hello+World!'+%2B+innovation)" alt="Code Animation" />
 <br><br>
-  <!-- Modern Tech Stack Visual -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,html,css,mongodb,git&theme=dark&perline=8" alt="Tech Stack" />
+  <!-- 3D Floating Tech Stack -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,mongodb,firebase,docker,aws,figma,git,vscode&theme=dark&perline=6" alt="Tech Arsenal" />
 <br><br>
+  <!-- Epic Space GIF with Neon Border -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300" style="border-radius: 20px; border: 3px solid #00ff41; box-shadow: 0 0 30px #00ff41;"/>
+<br><br>
+  <!-- Glitch Effect Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1200&color=4facfe&center=true&vCenter=true&width=800&height=60&lines=▓▓▓+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY+▓▓▓;▓▓▓+BUILDING+TOMORROW'S+APPLICATIONS+TODAY+▓▓▓;▓▓▓+WHERE+CREATIVITY+MEETS+TECHNOLOGY+▓▓▓" alt="Mission Statement" />
 </div>
-<!-- Decorative Line -->
+<!-- Matrix Rain Effect Line -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 ---
 
