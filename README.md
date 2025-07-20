@@ -4,7 +4,7 @@
  
   <!-- Animated Greeting with Wave -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=2E86AB&center=true&vCenter=true&width=600&height=80&lines=👋+Hi+there%2C+I'm+Khaled+Ahmed!;🚀+Welcome+to+my+GitHub!;💻+Let's+build+amazing+things!" alt="Animated Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=2E86AB&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Khaled+Ahmed!;🚀+Welcome+to+my+GitHub!;Let's+build+amazing+things!" alt="Animated Greeting" />
   </h1>
   <!-- Professional Roles Animation -->
   <div>
