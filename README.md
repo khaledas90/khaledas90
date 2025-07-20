@@ -27,7 +27,7 @@
 const khaledAhmed = {
     role: "Front-End Developer & Software Engineer",
     location: "🌍 Available Worldwide",
-    specialties: ["React", "React Native", "Node.js"],
+    specialties: ["React js", "Next js", "React Native", "Node.js"],
     focus: "Building beautiful, responsive web & mobile apps",
     currentlyLearning: "Advanced React Patterns & System Design",
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
