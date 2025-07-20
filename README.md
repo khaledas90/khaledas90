@@ -22,19 +22,21 @@
 <br><br>
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-```javascript
-const khaledAhmed = {
-    role: "Front-End Developer & Software Engineer",
-    location: "🌍 Available Worldwide",
-    specialties: ["React", "React Native", "Node.js"],
-    focus: "Building beautiful, responsive web & mobile apps",
-    currentlyLearning: "Advanced React Patterns & System Design",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
+<div align="center">🚀 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=200&height=50&lines=About+Me" alt="About Me" /></div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=200&section=header&text=&animation=fadeIn&fontAlignY=50"/>
+<div style="margin-top: -150px;">
+<!-- Animated Description -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Passionate+Frontend+Developer+from+Egypt+🇪🇬;Building+modern+web+%26+mobile+applications;Turning+creative+ideas+into+digital+reality;Always+learning+and+exploring+new+technologies" alt="Description" />
+</div>
+<br><br>
+<!-- Code Block Style Bio -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=2000&color=10B981&center=true&vCenter=true&multiline=true&width=600&height=150&lines=const+developer+%3D+%7B;++name%3A+'Khaled+Ahmed'%2C;++location%3A+'Egypt+🇪🇬'%2C;++expertise%3A+%5B'React'%2C+'Node.js'%5D%2C;++passion%3A+'Creating+amazing+UX'%2C;++currentlyLearning%3A+'AI+%26+Web3';%7D%3B" alt="Code Bio" />
+<br><br>
+<!-- Floating Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=khaledahmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledahmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="180"/>
+</div>
 ```
 
 <br clear="right"/>
