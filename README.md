@@ -121,9 +121,11 @@ const khaledAhmed = {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-<a href="https://www.oxfmoney.com" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaledas90&repo=oxfmoney&theme=tokyonight" alt="Project Card" />
-</a>
+
+
+ 
+
+
 
 </div>
 
