@@ -58,28 +58,6 @@ const khaledAhmed = {
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats 
 
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MrBlueBird2&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MrBlueBird2&layout=compact&theme=onedark" />
-</a>
-<br />
-<br />
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
-</details>
-
-
- 
-
-<details>
-  <summary><b>⚙️  GitHub Analytics</b></summary>
   <br/>
   <p align="center">
   <a href="https://github.com/Adityakanoi2001">
@@ -95,21 +73,19 @@ const khaledAhmed = {
 </p>
   <br/>
 
-</details>
+
+ 
+
+ 
 
 <br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
   <br/>
-  
-## 🏆GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+ 
 
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+ 
 
  
 
@@ -117,10 +93,7 @@ const khaledAhmed = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
+ 
 ## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
