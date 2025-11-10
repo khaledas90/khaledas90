@@ -76,18 +76,7 @@ const khaledAhmed = {
 </details>
 
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-<p align="center">
  
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
-</p>
-  <br/>
-
-</details>
-
 
 <details>
   <summary><b>⚙️  GitHub Analytics</b></summary>
